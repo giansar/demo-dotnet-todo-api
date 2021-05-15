@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace demo_dotnet_todo_api
+namespace Giansar.Demo.TodoApi
 {
     public class Program
     {
